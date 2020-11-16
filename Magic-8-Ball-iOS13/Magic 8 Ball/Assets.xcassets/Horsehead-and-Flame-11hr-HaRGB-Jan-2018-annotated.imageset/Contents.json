@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Horsehead-and-Flame-11hr-HaRGB-Jan-2018-annotated.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
