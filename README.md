@@ -21,6 +21,6 @@ A simple application where a user rolls two die for a randomized output.
 ## Challenge 2. Magic 8 Ball
 A simple application where a user shakes the Magic 8 Ball for a randomized fortune.
 
-![](/Magic-8-Ball-iOS13/magic8Ball.gif)
+
 
 ## 3. To Be Created
