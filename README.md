@@ -26,7 +26,7 @@ A simple application where a user shakes the Magic 8 Ball for a randomized fortu
 ## 3. Auto Turn Dicee
 The Dicee app but with StackViews added in order to account for the phone's orientation
 
-![](/AutoLayout-iOS13/AutoLayouit-iOS13.gif)
+![](/AutoLayout-iOS13/AutoLayout-iOS13.gif)
 
 ## Challenge 3. Auto Turn Calculator
 A Calculator app but with a challenge of figuring out the placement of StackViews in order to have the app's orientation properly work with it's elements.
