@@ -34,23 +34,23 @@ A Calculator app but with a challenge of figuring out the placement of StackView
 ![](/Calculator-Layout-iOS13/Calculator-Layout-iOS13.gif)
 
 ## 4. Xylophone
-Xylophone
+A Xylophone application used to showcase Apple libraries for playing sound.
 
-![](//.gif)
-
-
-## Challenge 4. To Be Announced
-To be announced
-
-![](//.gif)
+![](/Xylophone/Xylophone.gif)
 
 
-## 5. To Be Announced
-To be Announced
+## 5. Egg Timer
+An Egg Timer application to make the perfect eggs
 
-![](//.gif)
+![](/EggTimer/EggTimer.gif)
 
-## Challenge 5. To Be Announced
+
+## 6. Quizzler
+A Quiz application to show and organize questions and answers.
+
+![](/Quizzler/Quizzler.gif)
+
+## 7. To Be Announced
 To Be Announced
 
 ![](//.gif)
