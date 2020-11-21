@@ -50,12 +50,17 @@ A Quiz application to show and organize questions and answers.
 
 ![Quizzler](/Quizzler/Quizzler.gif)
 
-## 7. Destini
+## Challenge 4. Destini
 A choose your own adventure game
 
-![Destini](Destini/Destini/.gif)
+![Destini](Destini/Destini.gif)
+
+## 7. BMI Calculator
+A BMI Calculator app to learn about classes and optionals in greater depth
+
+![](BMI-Calculator/BMI-Calculator.gif)
 
 ## 8. To Be Announced
 To Be Announced
 
-![](//.gif)
+![](/.gif)
