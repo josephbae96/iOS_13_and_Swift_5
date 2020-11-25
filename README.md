@@ -61,14 +61,14 @@ A BMI Calculator app to learn about classes and optionals in greater depth
 ![](BMI-Calculator/BMI-Calculator.gif)
 
 ## Challenge 5. Tipsy
-Tipsy, a meal calculating app that calculates d
+Tipsy, a meal calculating app that calculates percentages and amount to be split
 
 ![](Tipsy/Tipsy.gif)
 
 ## 8. Clima
 To Be Announced
 
-![](/.gif)
+![](Clima/Clima.gif)
 
 ## Challenge 6. ByteCoin
 To Be Announced
