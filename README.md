@@ -66,7 +66,7 @@ Tipsy, a meal calculating app that calculates percentages and amount to be split
 ![](Tipsy/Tipsy.gif)
 
 ## 8. Clima
-To Be Announced
+Use APIs to fetch live weather data
 
 ![](Clima/Clima.gif)
 
