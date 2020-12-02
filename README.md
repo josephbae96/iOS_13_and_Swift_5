@@ -58,24 +58,29 @@ A choose your own adventure game
 ## 7. BMI Calculator
 A BMI Calculator app to learn about classes and optionals in greater depth
 
-![](BMI-Calculator/BMI-Calculator.gif)
+![BMI Calculator](BMI-Calculator/BMI-Calculator.gif)
 
 ## Challenge 5. Tipsy
 Tipsy, a meal calculating app that calculates percentages and amount to be split
 
-![](Tipsy/Tipsy.gif)
+![Tipsy](Tipsy/Tipsy.gif)
 
 ## 8. Clima
 Use APIs to fetch live weather data
 
-![](Clima/Clima.gif)
+![Clima](Clima/Clima.gif)
 
 ## Challenge 6. ByteCoin
 To Be Announced
 
+![ByteCoin](ByteCoin/ByteCoin.gif)
+
+## 9. FlashChat
+A chat based application that uses Firebase
+
 ![](/.gif)
 
-## 9. To Be Announced
+## 10. To Be Announced
 To Be Announced
 
 ![](/.gif)
