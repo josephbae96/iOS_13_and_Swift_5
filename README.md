@@ -16,22 +16,22 @@ A simple application showing an ImageView and a Text Label, specifically for iPh
 ## 2. Dicee 
 A simple application where a user rolls two die for a randomized output.
 
-![Dicee](/Dicee-iOS13/Dicee.gif)
+![Dicee](/Dicee/Dicee.gif)
 
 ## Challenge 2. Magic 8 Ball
 A simple application where a user shakes the Magic 8 Ball for a randomized fortune.
 
-![Magic 8 Ball](/Magic-8-Ball-iOS13/magic8Ball.gif)
+![Magic 8 Ball](/Magic-8-Ball/magic8Ball.gif)
 
 ## 3. Auto Turn Dicee
 The Dicee app but with StackViews added in order to account for the phone's orientation
 
-![Auto Turn Dicee](/AutoLayout-iOS13/AutoLayout-iOS13.gif)
+![Auto Turn Dicee](/AutoLayout/AutoLayout.gif)
 
 ## Challenge 3. Auto Turn Calculator
 A Calculator app but with a challenge of figuring out the placement of StackViews in order to have the app's orientation properly work with it's elements.
 
-![Auto Turn Calculator](/Calculator-Layout-iOS13/Calculator-Layout-iOS13.gif)
+![Auto Turn Calculator](/Calculator-Layout/Calculator-Layout.gif)
 
 ## 4. Xylophone
 A Xylophone application used to showcase Apple libraries for playing sound.
@@ -71,14 +71,14 @@ Use APIs to fetch live weather data
 ![Clima](Clima/Clima.gif)
 
 ## Challenge 6. ByteCoin
-To Be Announced
+Using the Coin API to get the currency exchange rate of a single BitCoin
 
 ![ByteCoin](ByteCoin/ByteCoin.gif)
 
 ## 9. FlashChat
 A chat based application that uses Firebase
 
-![](/.gif)
+![]FlashChat(FlashChat/FlashChat.gif)
 
 ## 10. To Be Announced
 To Be Announced
