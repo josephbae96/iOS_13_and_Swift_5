@@ -76,9 +76,9 @@ Using the Coin API to get the currency exchange rate of a single BitCoin
 ![ByteCoin](ByteCoin/ByteCoin.gif)
 
 ## 9. FlashChat
-A chat based application that uses Firebase
+A chat based application that uses Firebase and Firestore to store/retrieve data
 
-![]FlashChat(FlashChat/FlashChat.gif)
+![Flash Chat](Flash-Chat/Flash-Chat.gif)
 
 ## 10. To Be Announced
 To Be Announced
