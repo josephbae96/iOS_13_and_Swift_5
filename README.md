@@ -80,7 +80,27 @@ A chat based application that uses Firebase and Firestore to store/retrieve data
 
 ![Flash Chat](Flash-Chat/Flash-Chat.gif)
 
-## 10. To Be Announced
+## 10. SwiftUI Apps
+These apps were created to showcase how to use SwiftUI, Apple's newest
+initiative to make iOS application development a little friendlier to newcomers.'
+
+### 10.1 I Am Rich
+The same I Am Rich application but created entirely with SwiftUI
+
+![I Am Rich](I%20Am%20Rich/I%20Am%20Rich.gif)
+
+### 10.2 BaeCard
+A business card application that showcases my profile picture, my phone number, 
+and my email address.
+
+![BaeCard](BaeCard/BaeCard.gif)
+
+### 10.3 Dicee
+The Dicee application recreated entirely in SwiftUI
+
+![](/.gif)
+
+## 11. To Be Announced
 To Be Announced
 
 ![](/.gif)
